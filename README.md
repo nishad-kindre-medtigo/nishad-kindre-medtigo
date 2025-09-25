@@ -8,7 +8,7 @@
 
 <h3 align="center">:sparkles:Fullstack Developer, Medtigo</h3>
 
-<div align="center">
+<div>
   <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
