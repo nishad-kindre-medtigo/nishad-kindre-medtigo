@@ -38,7 +38,10 @@
   ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 </div>
 
-<h2>🔥 Streak Stats</h2>
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="32" />
+  Streak Stats
+</h2>
 <p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
